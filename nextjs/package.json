@@ -10,7 +10,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.11",
-    "next": "^8.1.1-canary.28",
+    "next": "^11.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
